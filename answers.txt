@@ -6,3 +6,7 @@ Answer: Data science can be applied to finance to develop trading algorithms bas
 Q1: Why might we consider using Git?
 
 Answer: Git is a good way to manage and track project changes for individuals and groups
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merge creates a new "merge commit" and rebase rewrites history by moving feature branch commits to the main branch
